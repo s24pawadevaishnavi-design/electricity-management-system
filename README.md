@@ -1,5 +1,8 @@
 # electricity-management-system
-#Description
+# Description
 
-The Smart Electricity Saver System helps reduce electricty waste by automatically managing electrical appliances.
-It turns ON devices when needed and OFF devices when not in use,saving power and cost.
+The Smart Electricity Saver System is a Java-based project that helps monitor and control electrical appliances.
+This project aims to reduce electricity wastage by automatically managing device usage and calculating power consumption,
+thereby promoting energy efficency and cost savings.
+
+
